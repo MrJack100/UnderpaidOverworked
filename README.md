@@ -5,7 +5,8 @@ It is called that because the client does not want to pay for the project. I am 
 
 ## Table of Contents
 
-* [To-Do List](#to-do-list)
+* [Table of Contents](#table-of-contents)
+* [Task List](#task-list)
 * [Specifications by Client](#specifications-by-client)
   * [Battle Features](#battle-features)
   * [Figure 1](#figure-1)
