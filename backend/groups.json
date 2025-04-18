@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Battlement",
+        "faction": "gnomes",
+        "location": {
+            "x-axis": 11,
+            "y-axis": 23
+        },
+        "units": [
+            {
+                "dwarves": 70
+            },
+            {
+                "gonks": 30
+            },
+            {
+                "halflings": 100
+            }
+        ]
+    },
+    {
+        "name": "Scouting Party",
+        "faction": "gnomes",
+        "location": {
+            "x-axis": 15,
+            "y-axis": 9
+        },
+        "units": [
+            {
+                "fairies": 70
+            },
+            {
+                "wizards": 30
+            },
+            {
+                "halflings": 30
+            }
+        ]
+    }
+]
